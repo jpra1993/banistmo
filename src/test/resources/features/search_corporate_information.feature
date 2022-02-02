@@ -4,7 +4,7 @@ Feature: As a user of the banistmo page,
 
   @SearhInformation
   Scenario: Search corporate information on sustainability
-    Given the user navigates to the section about the company
-    When the user navigates to the sustainability section
+    Given the user navigates to the section acerca de nosotros
+    When the user enters to the sustainability section
     And the user generates the desired document about sustainability
     Then the user should see the correct pdf file

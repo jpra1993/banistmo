@@ -15,7 +15,7 @@ public class SetUp {
     @Before
     public void setUp() {
         OnStage.setTheStage(Cast.ofStandardActors());
-        OnStage.theActorCalled("Juan");
+        OnStage.theActorCalled("The user");
         OnStage.theActorInTheSpotlight().can(BrowseTheWeb.with(hisBrowser));
         OnStage.theActorInTheSpotlight().wasAbleTo(Open.url("https://www.banistmo.com/wps/portal/banistmo/personas/"));
     }

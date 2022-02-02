@@ -1,0 +1,1138 @@
+<html lang="es"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    <meta name="google" content="notranslate">
+    <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+
+    <link rel="shortcut icon" type="image/x-icon" href="/BanistmoThemeAcercaDeStatic/themes/Banistmo/images/favicon-grupo.ico">
+    <link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=15&amp;themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1613431376000&amp;entry=bco_fonts__1.0%3Ahead_css&amp;entry=bco_transversal_css__1.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=css_wcm_custom__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1613431376000&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script src="https://connect.facebook.net/signals/config/3047638578854949?v=2.9.52&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/config/1638640773132669?v=2.9.52&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.52" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-751516.js?sv=7"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5DTRK5N"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_38G2HA80N87M00AB62GT7524N4"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_8252I1C0M07RC0ARVBRB2403M5","Z6_38G2HA80N87M00AB62GT7524N4","Z6_000000000000000000000000A0","Z6_38G2HA80N87M00AB62GT7524N4","Z6_38G2HA80N87M00AB62GT7524N4","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41NO8490QLEAGI8QBSN2","Z6_38G2HA80N87M00AB62GT7520B5","Z6_8252I1C0M07RC0ARVBRB2403M5"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_38G2HA80N87M00AB62GT7520B5','Z6_2G9I1K41NO8490QLEAGI8QBSN2','Z6_8252I1C0M07RC0ARVBRB2403M5','Z6_38G2HA80N87M00AB62GT7524N4'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1605650938000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512160368000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;deferred=true"><link id="n9ZOLNy5VA2" rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/!ut/p/z1/jY9BDoIwFETPwgn6-bTwWbbE1EapoYpgN4YVIVF0YTy_ptElDbOb5M1khnnWMz8P72kcXtNjHm5ff_H5NSONW0lgqagBpMpRnwqB3HLWBYBQoEkrqKFwFUh3Vk4hh6wWzK_Jw4IkrMtHAB-v75gPSOxBAFCXJt3x1B6Il9DsN1IbatTR4g9Y2ADq3xBZ8by3bQ-TGWWSfADscQ3z/"><script type="text/javascript">(function() {
+	var element = document.getElementById("n9ZOLNy5VA2");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><base href="https://www.banistmo.com/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/!ut/p/z1/jY9BDoIwFETPwgn6-bTwWbbE1EapoYpgN4YVIVF0YTy_ptElDbOb5M1khnnWMz8P72kcXtNjHm5ff_H5NSONW0lgqagBpMpRnwqB3HLWBYBQoEkrqKFwFUh3Vk4hh6wWzK_Jw4IkrMtHAB-v75gPSOxBAFCXJt3x1B6Il9DsN1IbatTR4g9Y2ADq3xBZ8by3bQ-TGWWSfADscQ3z/">
+<title>Sostenibilidad - Acerca de Banistmo</title>
+
+<meta content="solicitar seguro para hogar,cobrar seguro de hogar,asegurar hogar,asegurar muebles,proteger vivienda de incendios,asegurar gasodomesticos,Asegurar electrodomesticos,atencion domiciliaria,atencion 24 horas,asegurar vivienda,plan hogar bancolombia,quiero asegurar mi casa,tarifas para asegurar mi casa,como solicitar plan hogar,como asegurar mi casa,como solicitar asistencia domiciliaria,como obtener plan hogar,quiero proteger mi casa,seguro de inmueble,seguro de enseres." name="keywords"><meta content="index, follow" name="robots"><meta content="En Banistmo tenemos el propósito de contribuir a mejorar la calidad de vida economica, social y ambiental de las personas, las familias y los negocios para transformar positivamente la sociedad." name="description">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/!ut/p/z1/jY9BDoIwFETPwgn6-bTwWbbE1EapoYpgN4YVIVF0YTy_ptElDbOb5M1khnnWMz8P72kcXtNjHm5ff_H5NSONW0lgqagBpMpRnwqB3HLWBYBQoEkrqKFwFUh3Vk4hh6wWzK_Jw4IkrMtHAB-v75gPSOxBAFCXJt3x1B6Il9DsN1IbatTR4g9Y2ADq3xBZ8by3bQ-TGWWSfADscQ3z/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzM4RzJIQTgwTjg3TTAwQUI2MkdUNzUyNE40/">
+
+
+<link href="/wps/contenthandler/!ut/p/war/BanistmoThemeAcercaDeStatic/themes/Banistmo/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/!ut/p/z1/jY9BDoIwFETPwgn6-bTwWbbE1EapoYpgN4YVIVF0YTy_ptElDbOb5M1khnnWMz8P72kcXtNjHm5ff_H5NSONW0lgqagBpMpRnwqB3HLWBYBQoEkrqKFwFUh3Vk4hh6wWzK_Jw4IkrMtHAB-v75gPSOxBAFCXJt3x1B6Il9DsN1IbatTR4g9Y2ADq3xBZ8by3bQ-TGWWSfADscQ3z/">
+<title>Sostenibilidad - Acerca de Banistmo</title>
+
+<meta content="solicitar seguro para hogar,cobrar seguro de hogar,asegurar hogar,asegurar muebles,proteger vivienda de incendios,asegurar gasodomesticos,Asegurar electrodomesticos,atencion domiciliaria,atencion 24 horas,asegurar vivienda,plan hogar bancolombia,quiero asegurar mi casa,tarifas para asegurar mi casa,como solicitar plan hogar,como asegurar mi casa,como solicitar asistencia domiciliaria,como obtener plan hogar,quiero proteger mi casa,seguro de inmueble,seguro de enseres." name="keywords"><meta content="index, follow" name="robots"><meta content="En Banistmo tenemos el propósito de contribuir a mejorar la calidad de vida economica, social y ambiental de las personas, las familias y los negocios para transformar positivamente la sociedad." name="description">
+	
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad">
+		
+	<link rel="bookmark" title="Sostenibilidad" href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad" hreflang="es">
+
+<script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/jquery-1.11.3.ui.min.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/angular-1.3.20.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/modules/slide-min.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/modules/mobile-detect.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/modules/modules.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/modules/jquery.basictable.min.js" defer=""></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/modules/wow.min.js" defer=""></script>
+
+    <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+    </script>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DTRK5N" height="0" width="0" style="display:none;visibility:hidden" title=""></iframe></noscript>
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5DTRK5N');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".close").click(function() {
+                $(".btn-chat").toggle();
+                $(this).toggleClass("open");
+            });
+        });
+    </script>
+
+<script async="" src="https://script.hotjar.com/modules.b840cee57f816b17fc8e.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+
+<body class="toolbar-closed">
+
+    <div class="wpthemeFrame">
+        <header role="banner" tabindex="-1" aria-label="Main header">
+            </header>
+    </div>
+
+    
+
+<portletapi:init>
+<link href="/wps/wcm/connect/www.banistmo.com11237/51f5d153-4fa7-481c-8930-fd0aef663207/styles-header.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-51f5d153-4fa7-481c-8930-fd0aef663207-nqbCdrx" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/f2859605-6218-4539-b609-0bb9784ae5d3/styles-footer.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f2859605-6218-4539-b609-0bb9784ae5d3-npE4anZ" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_03_08_2021.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-nIOact6" type="text/css" rel="stylesheet">
+<link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_03_08_2021.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-nIOact6" type="text/css" rel="stylesheet">
+
+
+   <nav class="navbar bg-black acerca-de" id="menu-top">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <li><a href="/wps/portal/banistmo/personas/">Personas</a></li>
+            <li><a href="/wps/portal/banistmo/pymes/">Pymes</a></li>
+            <li><a href="/wps/portal/banistmo/empresas/">Empresas</a></li>
+            <li><a href="/wps/portal/banistmo/acerca-de/" class="active">Acerca de nosotros</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="main-menu">
+
+    <div class="row-fluid">
+        <div class="navbar navbar-default menu">
+
+            <!-- icon-bar responsive -->
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse-grid">
+                <span class="icon-bar"></span><span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            </div>
+            <!-- icon-bar responsive -->
+
+            <div class="navbar-collapse collapse" id="navbar-collapse-grid">
+
+                <!-- menú -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="navbar-brand" href="/wps/portal/banistmo/personas">   
+                    <img src="/wps/wcm/connect/www.banistmo.com11237/f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad/logo-banistmo-menu.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad-nzwptVu" alt="" width="135" height="23">
+                </a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a href="/wps/portal/banistmo/acerca-de/"><strong>Inicio</strong></a></li>
+
+                    <li class="dropdown menu-fw"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Información Corporativa</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-submenu">
+                                <div class="col-sm-12 submenu">
+                                    <h2>Información Corporativa</h2>
+                                    <ul>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/quienes-somos/">Quiénes Somos</a></li>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/trabaja-con-nosotros/">Trabaja con Nosotros</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/relacion-con-inversionistas/">Relación con Inversionistas</a></li>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/gobierno-corporativo/">Gobierno Corporativo</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/">Sostenibilidad</a></li>
+                                        <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/reconocimientos/">Reconocimientos</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-12 shortcut">
+                                    <h2></h2>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown menu-fw"><a href="/wps/portal/banistmo/acerca-de/sala-de-prensa/">Sala de Prensa</a></li>
+                </ul>
+                <!-- end menú -->
+
+                <!-- search , buttons -->
+                <div class="navbar-right">
+                    <form class="navbar-form" action="/wps/portal/banistmo/acerca-de/buscador-de-contenido">
+                        <div class="search-component">
+                            <img src="/wps/wcm/connect/www.banistmo.com11237/fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb/icon-search.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb-npk06fo" alt="" width="24" height="24">
+                            <input type="text" id="termino" name="termino" class="form-control btn-search" placeholder="Buscar">
+                        </div>
+                        <a href="#" target="null" onclick="open(&quot;https://personas.banistmo.com&quot;, &quot;Banistmo&quot;, &quot;status=yes,scrollbars=yes,resizable=yes,fullscreen=yes&quot;);" class="btn btn-primary">
+                            Banca en Línea Personas <img src="/wps/wcm/connect/www.banistmo.com11237/bca10970-b270-49c3-b359-7051a6020a21/lock.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-bca10970-b270-49c3-b359-7051a6020a21-nmUk-Ay" alt="" width="24" height="24"> </a>
+                    </form>
+                </div>
+                <!-- end search , buttons -->
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+	<div class="breadcrumbs" id="breadcrumbs">
+		
+            <div class="container container-max">
+                <ul itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo">
+                                        <span class="titlebreadcrumb" itemprop="name">Banistmo</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="1">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/acerca-de">
+                                        <span class="titlebreadcrumb" itemprop="name">Acerca de</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="2">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/acerca-de/informacion-corporativa">
+                                        <span class="titlebreadcrumb" itemprop="name">Información Corporativa</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="3">
+                                </a>
+                            </li>
+                    
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                
+                                <a itemprop="item" href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad">
+                                        <span class="titlebreadcrumb" itemprop="name">Sostenibilidad</span>
+                                        <span class="separator"> | </span>
+                                        <meta itemprop="position" content="4">
+                                </a>
+                            </li>
+                    
+                </ul>
+            </div>
+		
+	</div>
+
+<link href="/wps/wcm/connect/www.banistmo.com11237/b831385c-7cca-42c9-9973-d731533ef78d/styles-chat.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b831385c-7cca-42c9-9973-d731533ef78d-nnCUOmV" type="text/css" rel="stylesheet">
+  <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" target="_blank" class="btn-chat">
+    <img src="/wps/wcm/connect/www.banistmo.com11237/787a4ed0-8cd2-4561-9421-1a2ee4e153d2/icono-chat.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-787a4ed0-8cd2-4561-9421-1a2ee4e153d2-nnC9urI" alt="" width="26" height="26">
+  </a>
+<!-- end frame class="wpthemeMainContent" -->
+    <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal" id="main-content">
+        <!-- required - do not remove -->
+        <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+            <div class="wpthemeInner">
+                
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_8252I1C0M07RC0ARVBRB2403H2"><span id="Z7_8252I1C0M07RC0ARVBRB2403H2"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0M07RC0ARVBRB2403H2" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0M07RC0ARVBRB2403H2</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+<style>
+#main-content {
+  background: rgba(0, 0, 0, 0) url("") repeat scroll center bottom;
+}
+
+@media screen and (max-width: 768px) {
+    .encabezado>.fondo {
+        position:relative;
+        background-position: center;
+        height: 250px
+    }
+}
+</style>
+
+<link rel="stylesheet" href="" type="text/css">
+
+<div class="encabezado titulo-contenido-boton">
+  <div class="fondo" style="background-image: url(&quot;/wps/wcm/connect/www.banistmo.com11237/a866294d-f408-4558-a8f6-578e483597a6/AcercaDe-Sostenibilidad_Banner+Web+Producto.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a866294d-f408-4558-a8f6-578e483597a6-nrWc6-T&quot;); background-position: 50% 50%;">
+  </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6 col-xs-12">
+        <h1>Sostenibilidad</h1>
+        <p dir="ltr">La sostenibilidad en Banistmo es un eje transversal dentro de la organización, con la intención de operar de forma ecoeficiente, buscando negocios y administrando riesgos de forma sostenible, incluyendo a nuestros proveedores como aliados estratégicos dentro de nuestra cadena de valor y contemplando&nbsp;la ciudadanía corporativa como uno de nuestros pilares.&nbsp; Apoyamos a las comunidades enfocándonos en proyectos de educación, ambiente y promoción de la cultura e identidad panameña.</p>
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M07RC0ARVBRB2403H1"><span id="Z7_8252I1C0M07RC0ARVBRB2403H1"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0M07RC0ARVBRB2403H1" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0M07RC0ARVBRB2403H1</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="container-fluid none">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="tabs-verticales container-fluid tabs-horizontal">
+        <div class="row">
+          <ul id="filialTabs" class="nav nav-tabs responsive col-sm-3 hidden-xs hidden-sm"><li class="active"><a href="#tab1">¿Qué es Sostenibilidad?</a></li><li class="none"><a href="#tab2">¿Por qué somos sostenibles?</a></li><li class="none"><a href="#tab3">Sostenibilidad para nuestros clientes</a></li><li class="none"><a href="#tab4">Ciudadanía Corporativa</a></li><li class="none"><a href="#tab5">Generación Sostenible</a></li></ul>
+          <div class="tab-content responsive col-sm-9 hidden-xs hidden-sm" style="min-height: 223px;"><div id="tab1" class="tab-pane active">
+<h2>¿Qué es Sostenibilidad?</h2>
+<p dir="ltr">En Banistmo, tenemos el propósito de contribuir a mejorar la calidad de vida de las personas, las familias y los negocios para transformar de forma positiva a la sociedad.</p>
+
+<p dir="ltr">Ser sostenible significa actuar en el presente pensando en el futuro; atender las necesidades actuales sin afectar la capacidad de las futuras generaciones. Es generar impactos positivos desde nuestras acciones en el ámbito social, económico y ambiental, con el fin de garantizar los recursos necesarios para la sociedad.</p>
+
+<p dir="ltr">Trabajamos para evidenciar nuestro compromiso con el desarrollo sostenible del país, siendo conscientes que para ello es necesario generar impactos positivos en tres ámbitos:</p>
+
+<ul class="list-basic" dir="ltr">
+	<li>Económico.</li>
+	<li>Social.</li>
+	<li>Ambiental.</li>
+</ul>
+
+</div><div id="tab2" class="tab-pane">
+<h2>¿Por qué somos sostenibles?</h2>
+<p dir="ltr">Siendo parte del Grupo Bancolombia, reconocido como el Banco más sostenible del mundo según el Dow Jones Sustainability Index, hacemos parte de acuerdos internacionales como como los Principios de Ecuador, Pacto Global de las Naciones Unidas, la Iniciativa Financiera del Programa de Ambiente de Naciones Unidas y a nivel local somos miembros del Panama Green Building Council, la Iniciativa de Paridad de Género, los Principios de Empoderamiento de la Mujer de ONU Mujeres, Global Banking Alliance for Women y el Protocolo de Finanzas Sostenibles de la Asociación Bancaria de Panamá.&nbsp;</p>
+
+<p dir="ltr">En Banistmo tenemos el compromiso con la generación de valor económico, social y ambiental para todos. Hemos sido reconocidos en los últimos años por nuestra gestión ambiental con reconocimientos como: Premio a la excelencia ambiental otorgado por el Ministerio de Ambiente, el premio Panamá Sostenible por nuestro proyecto de conservación de la Cuenca Hidrográfica del Canal de Panamá y una especial mención honorífica al Buen Ciudadano Corporativo de la Cámara Americana de Comercio de Panamá por sus proyectos de productos financieros con componentes de sostenibilidad, de los que se destaca la única tarjeta verde del país, Visa Banistmo Natura.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<h3 dir="ltr">Ecoeficiencia</h3>
+
+<p dir="ltr">Nuestra responsabilidad con el medio ambiente comienza en casa. Por ello contamos con estrategias de ecoeficiencia corporativas con metas para reducir el consumo de agua, energía, papel y viajes. Además, tenemos programas de reciclaje en nuestros edificios corporativos, que del año 2014 al año 2018 han enviado a procesos de reciclaje más de 400 toneladas de materiales.</p>
+
+<h3 dir="ltr">Sucursales Sostenibles</h3>
+
+<p dir="ltr">Contamos con sucursales certificadas LEED, construídas bajo criterios ambientales en términos de diseño, materiales, uso de energía y agua: Sucursal Soho Mall - LEED Gold, Sucursal Versalles - LEED Platinum, Sucursal Costa del Este - LEED Gold.</p>
+
+<h3 dir="ltr">Nuestro Edificio Corporativo</h3>
+
+<p dir="ltr">Nuestra Casa Matriz es el segundo proyecto certificado LEED Platinum en Panamá, el cual cuenta con un diseño innovador, amigable con el medio ambiente, con áreas lúdicas y de trabajo colaborativo.</p>
+
+</div><div id="tab3" class="tab-pane">
+<h2>Sostenibilidad para nuestros clientes</h2>
+<p dir="ltr">En Banistmo queremos acompañar los negocios de nuestros clientes con soluciones que les permitan ser sostenibles y seguir creciendo. Por medio de nuestra estrategia de negocios sostenibles, los apoyamos en el desarrollo de sus proyectos promoviendo el uso de tecnologías limpias, energías renovables y el uso eficiente de la energía para generar una menor afectación al medio ambiente y a la comunidad.&nbsp;</p>
+
+<p dir="ltr">Continuamos impulsamos productos verdes como nuestra tarjeta de Crédito Visa Banistmo Natura, la cual luego de 4 años en el mercado cuenta con más de 3,900 tarjetas activas y ha permitido trabajar proyectos de saneamiento ambiental, reforestación, educación ambiental en 7 comunidades y reforestación de dos hectáreas, todas acciones realizadas en la Cuenca Hidrográfica del Canal de Panamá, reconociendo la importancia estratégica que tiene esta zona para Panamá.&nbsp;</p>
+
+<p dir="ltr">Nuestro segmento Banikids continúa aportando a la conservación de Tortugas Marinas, con la apertura de 2,278 cuentas de ahorro Banikids, más de 73,000 tortugas marinas fueron liberadas al mar que en las comunidades costeras de Cambutal y Punta Chame, el proyecto permitió la creación de 12 puestos de trabajo y 60 clientes Banikids participaron del proyecto.</p>
+
+<p dir="ltr">Banistmo recibió en noviembre de 2018, de parte de Global Banking Alliance for Women (GBA), una organización que trabaja con instituciones financieras en más de 135 países, uno de los premios como Propulsores de Banca para las Mujeres, reconociendo el trabajo que Banistmo ha venido desarrollando en la temática de Género a través de Impulsa, ofreciendo oferta de valor financiera y no financiera para las mujeres, a través de productos y servicios bancarios, alianzas, espacios de networking, capacitaciones a más de 1,000 mujeres en finanzas personales y de negocio, marca, desarrollo personal y Liderazgo y mentorías personalizadas a 25 empresarias a través de In-Pactamos.&nbsp;</p>
+
+<p dir="ltr">Además de formar parte de GBA, Banistmo es parte del Consejo para Paridad de Género, de la iniciativa del Sello de Igualdad de Género, de los Principios de Empoderamiento de la Mujer de ONU Mujeres y de la Red Emprende Igualdad, comprometiéndose así con el Cumplimiento del Objetivo de Desarrollo Sostenible No. 5 sobre Igualdad de Género.</p>
+
+</div><div id="tab4" class="tab-pane">
+<h2>Ciudadanía Corporativa</h2>
+<p dir="ltr">Nuestro enfoque de Ciudadanía Corporativa busca apoyar el desarrollo de las comunidades donde tenemos presencia, mejorando las condiciones de la calidad de vida, sobre todo de los niños y jóvenes que representan nuestra nueva generación; protegemos y conservamos los recursos naturales y difundimos nuestra cultura a través de la implementación de diferentes programas dirigidos a cumplir estos objetivos.</p>
+
+<p dir="ltr"><strong>Calidad de vida y educación</strong></p>
+
+<p dir="ltr">Nos enfocamos en realizar transformaciones a largo plazo y generar un impacto positivo en la sociedad desarrollando 9 proyectos orientados a mejorar la calidad educativa de más de 8,000 niños y niñas de 134 escuelas, mediante programas de educación financiera, emocional, ambiental y primera infancia. Buscamos de igual forma fortalecer las capacidades de los educadores, padres de familia y la comunidad en general para ofrecer a los niños y niñas en edad preescolar un entorno favorable para su desarrollo y aprendizaje en sus primeros años de vida.</p>
+
+<p dir="ltr"><strong>Medio Ambiente</strong></p>
+
+<p dir="ltr">Desarrollamos programas para la conservación de los Recursos Hídricos y de la Biodiversidad en la Cuenca Hidrográfica del Canal de Panamá. Aportamos en la conservación de especies en peligro de extinción como es el jaguar y las tortugas marinas, fomentamos la educación ambiental y el ecoturismo, la protección de manglares y la reforestación de áreas naturales protegidas, impactando positivamente a más de 4,300 personas.</p>
+
+<p dir="ltr"><strong>Cultura</strong></p>
+
+<p dir="ltr">Nos inspira apoyar la cultura de Panamá y en conjunto con El Patronato de Panamá Viejo, desarrollamos programas orientados a fomentar la sensibilización ciudadana en torno al valor del Conjunto Monumental Histórico de Panamá Viejo, generando educación cultural de forma dinámica y divertida en más de 12,000 niños estudiantes de escuelas públicas, además somos orgullosos patrocinadores de la Sala El Gran Intercambio en el Biomuseo de Panamá.</p>
+
+<p dir="ltr"><strong>Programa de Voluntariado Corporativo</strong></p>
+
+<p dir="ltr">Todos nuestros proyectos de sostenibilidad cuentan con el componente de voluntariado como pieza fundamental y de forma transversal. Nuestros colaboradores, clientes y proveedores apoyan con su tiempo y dedicación en el desarrollo de todos nuestros proyectos de ciudadanía corporativa. Durante el 2018 más del 40% de los colaboradores son voluntarios activos.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+</div><div id="tab5" class="tab-pane">
+<h2>Generación Sostenible</h2>
+<p dir="ltr">Generación Sostenible es un boletín de comunicación que llega a todos nuestros clientes con la finalidad de mantener una constante comunicación e información sobre los temas de sostenibilidad.</p>
+
+<h2 dir="ltr">Visita nuestra nueva sección Generación Sostenible&nbsp;<span style="color:#daa520;"><a href="/wps/portal/banistmo/acerca-de/generacion-sostenible" target="_blank" title="">aquí</a></span></h2>
+
+<h2 dir="ltr"><strong>Ediciones Anteriores&nbsp;</strong></h2>
+
+<table class="table-responsive" dir="ltr">
+	<thead>
+		<tr>
+			<th>Edición</th>
+			<th>PDF</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 9</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/24e1f142-4bb1-4e59-a9d2-b7fcf56061b6/Generaci%C3%B3n+Sostenible+Edici%C3%B3n+9.compressed.pdf?MOD=AJPERES&amp;CVID=lSAKvcx" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 8</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/90257243-2339-434e-99b9-685526b27760/Generaci%C3%B3n+Sostenible+Edici%C3%B3n+8.compressed.pdf?MOD=AJPERES&amp;CVID=lSAJT7L" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 7</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/91aef458-fc4a-44a2-b397-29b4360b5cd0/Generaci%C3%B3n+Sostenible+7.compressed.pdf?MOD=AJPERES&amp;CVID=lSAI0ej" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 6</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/bba8d945-b2ab-40ab-927f-2a15689535af/BoletinGeneracionSostenible6.pdf?MOD=AJPERES&amp;CVID=lMxmTsb" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición Especial</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/182c6b92-2c7a-462d-a588-d91d25a035b5/GeneracionSostenibleEdicionEspecial.pdf?MOD=AJPERES&amp;CVID=lMxn0Rf" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 5</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/5c3d489b-5850-4f4e-8258-b829f2d1a149/BoletinGeneracionSostenible5.pdf?MOD=AJPERES&amp;CVID=lMxmEQz" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 4</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/211efa2b-edaf-4fa6-bc7a-20d697615f39/boletinGeneracionSostenible4.pdf?MOD=AJPERES&amp;CVID=lMxmBAb" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 3</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/261592ab-6fbe-493f-8984-27a404a6504d/boletinGeneracionSostenible3.pdf?MOD=AJPERES&amp;CVID=lMxmeWu" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 2</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/abe6141e-a945-40e2-9ef4-1f8dbb166207/BoletinGeneracionSostenible2.pdf?MOD=AJPERES&amp;CVID=lMxm3Pi" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 1</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/e701702f-aa90-407f-9a65-9d7d2af7b320/BoletinCS5.pdf?MOD=AJPERES&amp;CVID=lMxlZgz" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+	</tbody>
+</table>
+
+</div></div><div class="acordeon  visible-xs visible-sm" id="collapse-17"><h3 class="titulo_acordeon">¿Qué es Sostenibilidad?<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab1" class="col-xs-12 collapse in" aria-expanded="true" style="">
+<h2>¿Qué es Sostenibilidad?</h2>
+<p dir="ltr">En Banistmo, tenemos el propósito de contribuir a mejorar la calidad de vida de las personas, las familias y los negocios para transformar de forma positiva a la sociedad.</p>
+
+<p dir="ltr">Ser sostenible significa actuar en el presente pensando en el futuro; atender las necesidades actuales sin afectar la capacidad de las futuras generaciones. Es generar impactos positivos desde nuestras acciones en el ámbito social, económico y ambiental, con el fin de garantizar los recursos necesarios para la sociedad.</p>
+
+<p dir="ltr">Trabajamos para evidenciar nuestro compromiso con el desarrollo sostenible del país, siendo conscientes que para ello es necesario generar impactos positivos en tres ámbitos:</p>
+
+<ul class="list-basic" dir="ltr">
+	<li>Económico.</li>
+	<li>Social.</li>
+	<li>Ambiental.</li>
+</ul>
+
+</div></div></div><h3 class="titulo_acordeon">¿Por qué somos sostenibles?<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab2" class="col-xs-12">
+<h2>¿Por qué somos sostenibles?</h2>
+<p dir="ltr">Siendo parte del Grupo Bancolombia, reconocido como el Banco más sostenible del mundo según el Dow Jones Sustainability Index, hacemos parte de acuerdos internacionales como como los Principios de Ecuador, Pacto Global de las Naciones Unidas, la Iniciativa Financiera del Programa de Ambiente de Naciones Unidas y a nivel local somos miembros del Panama Green Building Council, la Iniciativa de Paridad de Género, los Principios de Empoderamiento de la Mujer de ONU Mujeres, Global Banking Alliance for Women y el Protocolo de Finanzas Sostenibles de la Asociación Bancaria de Panamá.&nbsp;</p>
+
+<p dir="ltr">En Banistmo tenemos el compromiso con la generación de valor económico, social y ambiental para todos. Hemos sido reconocidos en los últimos años por nuestra gestión ambiental con reconocimientos como: Premio a la excelencia ambiental otorgado por el Ministerio de Ambiente, el premio Panamá Sostenible por nuestro proyecto de conservación de la Cuenca Hidrográfica del Canal de Panamá y una especial mención honorífica al Buen Ciudadano Corporativo de la Cámara Americana de Comercio de Panamá por sus proyectos de productos financieros con componentes de sostenibilidad, de los que se destaca la única tarjeta verde del país, Visa Banistmo Natura.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<h3 dir="ltr">Ecoeficiencia</h3>
+
+<p dir="ltr">Nuestra responsabilidad con el medio ambiente comienza en casa. Por ello contamos con estrategias de ecoeficiencia corporativas con metas para reducir el consumo de agua, energía, papel y viajes. Además, tenemos programas de reciclaje en nuestros edificios corporativos, que del año 2014 al año 2018 han enviado a procesos de reciclaje más de 400 toneladas de materiales.</p>
+
+<h3 dir="ltr">Sucursales Sostenibles</h3>
+
+<p dir="ltr">Contamos con sucursales certificadas LEED, construídas bajo criterios ambientales en términos de diseño, materiales, uso de energía y agua: Sucursal Soho Mall - LEED Gold, Sucursal Versalles - LEED Platinum, Sucursal Costa del Este - LEED Gold.</p>
+
+<h3 dir="ltr">Nuestro Edificio Corporativo</h3>
+
+<p dir="ltr">Nuestra Casa Matriz es el segundo proyecto certificado LEED Platinum en Panamá, el cual cuenta con un diseño innovador, amigable con el medio ambiente, con áreas lúdicas y de trabajo colaborativo.</p>
+
+</div></div></div><h3 class="titulo_acordeon">Sostenibilidad para nuestros clientes<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab3" class="col-xs-12">
+<h2>Sostenibilidad para nuestros clientes</h2>
+<p dir="ltr">En Banistmo queremos acompañar los negocios de nuestros clientes con soluciones que les permitan ser sostenibles y seguir creciendo. Por medio de nuestra estrategia de negocios sostenibles, los apoyamos en el desarrollo de sus proyectos promoviendo el uso de tecnologías limpias, energías renovables y el uso eficiente de la energía para generar una menor afectación al medio ambiente y a la comunidad.&nbsp;</p>
+
+<p dir="ltr">Continuamos impulsamos productos verdes como nuestra tarjeta de Crédito Visa Banistmo Natura, la cual luego de 4 años en el mercado cuenta con más de 3,900 tarjetas activas y ha permitido trabajar proyectos de saneamiento ambiental, reforestación, educación ambiental en 7 comunidades y reforestación de dos hectáreas, todas acciones realizadas en la Cuenca Hidrográfica del Canal de Panamá, reconociendo la importancia estratégica que tiene esta zona para Panamá.&nbsp;</p>
+
+<p dir="ltr">Nuestro segmento Banikids continúa aportando a la conservación de Tortugas Marinas, con la apertura de 2,278 cuentas de ahorro Banikids, más de 73,000 tortugas marinas fueron liberadas al mar que en las comunidades costeras de Cambutal y Punta Chame, el proyecto permitió la creación de 12 puestos de trabajo y 60 clientes Banikids participaron del proyecto.</p>
+
+<p dir="ltr">Banistmo recibió en noviembre de 2018, de parte de Global Banking Alliance for Women (GBA), una organización que trabaja con instituciones financieras en más de 135 países, uno de los premios como Propulsores de Banca para las Mujeres, reconociendo el trabajo que Banistmo ha venido desarrollando en la temática de Género a través de Impulsa, ofreciendo oferta de valor financiera y no financiera para las mujeres, a través de productos y servicios bancarios, alianzas, espacios de networking, capacitaciones a más de 1,000 mujeres en finanzas personales y de negocio, marca, desarrollo personal y Liderazgo y mentorías personalizadas a 25 empresarias a través de In-Pactamos.&nbsp;</p>
+
+<p dir="ltr">Además de formar parte de GBA, Banistmo es parte del Consejo para Paridad de Género, de la iniciativa del Sello de Igualdad de Género, de los Principios de Empoderamiento de la Mujer de ONU Mujeres y de la Red Emprende Igualdad, comprometiéndose así con el Cumplimiento del Objetivo de Desarrollo Sostenible No. 5 sobre Igualdad de Género.</p>
+
+</div></div></div><h3 class="titulo_acordeon">Ciudadanía Corporativa<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab4" class="col-xs-12">
+<h2>Ciudadanía Corporativa</h2>
+<p dir="ltr">Nuestro enfoque de Ciudadanía Corporativa busca apoyar el desarrollo de las comunidades donde tenemos presencia, mejorando las condiciones de la calidad de vida, sobre todo de los niños y jóvenes que representan nuestra nueva generación; protegemos y conservamos los recursos naturales y difundimos nuestra cultura a través de la implementación de diferentes programas dirigidos a cumplir estos objetivos.</p>
+
+<p dir="ltr"><strong>Calidad de vida y educación</strong></p>
+
+<p dir="ltr">Nos enfocamos en realizar transformaciones a largo plazo y generar un impacto positivo en la sociedad desarrollando 9 proyectos orientados a mejorar la calidad educativa de más de 8,000 niños y niñas de 134 escuelas, mediante programas de educación financiera, emocional, ambiental y primera infancia. Buscamos de igual forma fortalecer las capacidades de los educadores, padres de familia y la comunidad en general para ofrecer a los niños y niñas en edad preescolar un entorno favorable para su desarrollo y aprendizaje en sus primeros años de vida.</p>
+
+<p dir="ltr"><strong>Medio Ambiente</strong></p>
+
+<p dir="ltr">Desarrollamos programas para la conservación de los Recursos Hídricos y de la Biodiversidad en la Cuenca Hidrográfica del Canal de Panamá. Aportamos en la conservación de especies en peligro de extinción como es el jaguar y las tortugas marinas, fomentamos la educación ambiental y el ecoturismo, la protección de manglares y la reforestación de áreas naturales protegidas, impactando positivamente a más de 4,300 personas.</p>
+
+<p dir="ltr"><strong>Cultura</strong></p>
+
+<p dir="ltr">Nos inspira apoyar la cultura de Panamá y en conjunto con El Patronato de Panamá Viejo, desarrollamos programas orientados a fomentar la sensibilización ciudadana en torno al valor del Conjunto Monumental Histórico de Panamá Viejo, generando educación cultural de forma dinámica y divertida en más de 12,000 niños estudiantes de escuelas públicas, además somos orgullosos patrocinadores de la Sala El Gran Intercambio en el Biomuseo de Panamá.</p>
+
+<p dir="ltr"><strong>Programa de Voluntariado Corporativo</strong></p>
+
+<p dir="ltr">Todos nuestros proyectos de sostenibilidad cuentan con el componente de voluntariado como pieza fundamental y de forma transversal. Nuestros colaboradores, clientes y proveedores apoyan con su tiempo y dedicación en el desarrollo de todos nuestros proyectos de ciudadanía corporativa. Durante el 2018 más del 40% de los colaboradores son voluntarios activos.</p>
+
+<p dir="ltr">&nbsp;</p>
+
+</div></div></div><h3 class="titulo_acordeon">Generación Sostenible<li class="pull-right glyphicon glyphicon-plus"></li></h3><div class="pane"><div class="row"><div id="collapse-tab5" class="col-xs-12">
+<h2>Generación Sostenible</h2>
+<p dir="ltr">Generación Sostenible es un boletín de comunicación que llega a todos nuestros clientes con la finalidad de mantener una constante comunicación e información sobre los temas de sostenibilidad.</p>
+
+<h2 dir="ltr">Visita nuestra nueva sección Generación Sostenible&nbsp;<span style="color:#daa520;"><a href="/wps/portal/banistmo/acerca-de/generacion-sostenible" target="_blank" title="">aquí</a></span></h2>
+
+<h2 dir="ltr"><strong>Ediciones Anteriores&nbsp;</strong></h2>
+
+<table class="table-responsive" dir="ltr">
+	<thead>
+		<tr>
+			<th>Edición</th>
+			<th>PDF</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 9</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/24e1f142-4bb1-4e59-a9d2-b7fcf56061b6/Generaci%C3%B3n+Sostenible+Edici%C3%B3n+9.compressed.pdf?MOD=AJPERES&amp;CVID=lSAKvcx" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 8</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/90257243-2339-434e-99b9-685526b27760/Generaci%C3%B3n+Sostenible+Edici%C3%B3n+8.compressed.pdf?MOD=AJPERES&amp;CVID=lSAJT7L" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 7</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/91aef458-fc4a-44a2-b397-29b4360b5cd0/Generaci%C3%B3n+Sostenible+7.compressed.pdf?MOD=AJPERES&amp;CVID=lSAI0ej" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 6</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/bba8d945-b2ab-40ab-927f-2a15689535af/BoletinGeneracionSostenible6.pdf?MOD=AJPERES&amp;CVID=lMxmTsb" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición Especial</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/182c6b92-2c7a-462d-a588-d91d25a035b5/GeneracionSostenibleEdicionEspecial.pdf?MOD=AJPERES&amp;CVID=lMxn0Rf" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 5</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/5c3d489b-5850-4f4e-8258-b829f2d1a149/BoletinGeneracionSostenible5.pdf?MOD=AJPERES&amp;CVID=lMxmEQz" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 4</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/211efa2b-edaf-4fa6-bc7a-20d697615f39/boletinGeneracionSostenible4.pdf?MOD=AJPERES&amp;CVID=lMxmBAb" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 3</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/261592ab-6fbe-493f-8984-27a404a6504d/boletinGeneracionSostenible3.pdf?MOD=AJPERES&amp;CVID=lMxmeWu" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 2</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/abe6141e-a945-40e2-9ef4-1f8dbb166207/BoletinGeneracionSostenible2.pdf?MOD=AJPERES&amp;CVID=lMxm3Pi" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+		<tr>
+			<td data-th="Edición"><span class="bt-content"><span class="bt-content">Edición N° 1</span></span></td>
+			<td data-th="PDF"><span class="bt-content"><a href="/wps/wcm/connect/www.banistmo.com11237/e701702f-aa90-407f-9a65-9d7d2af7b320/BoletinCS5.pdf?MOD=AJPERES&amp;CVID=lMxlZgz" target="_blank"><img src="/wps/wcm/connect/www.banistmo.com11237/b5812573-aa98-42f4-8ee1-f2a4bd15e467/pdf-icon.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b5812573-aa98-42f4-8ee1-f2a4bd15e467-m1cIl8g" alt="Descargar PDF" width="27" height="34" title=""></a></span></td>
+		</tr>
+	</tbody>
+</table>
+
+</div></div></div></div>
+        </div>
+      </div>    
+    </div>
+  </div>
+</div>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	
+		<div class="component-control id-Z7_8252I1C0M07RC0ARVBRB240390"><span id="Z7_8252I1C0M07RC0ARVBRB240390"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_8252I1C0M07RC0ARVBRB240390" style="display:none;">
+		<span class="asa.portlet.id">Z7_8252I1C0M07RC0ARVBRB240390</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="Skin header">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="es" dir="ltr">Visor de contenido web</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Mostrar menú de contenido" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Mostrar menú de contenido"><img aria-label="Mostrar menú de contenido" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Menú de acciones de componente</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Mostrar menú de portlet" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Mostrar menú de portlet"><img aria-label="Mostrar menú de portlet" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Acciones</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+              <style>
+        .wptheme1Col .wpthemeCol, .wpthemeInner {width: 100%;float: inherit !important;margin: inherit;}.wpthemeCol {margin-left: 0px !important;}body .wpthemeOverflowAuto {overflow: unset !important;}body .wpthemeClear {clear: none !important;}.wpthemeControl, .wpthemeRow, .wpthemeLayoutContainers {margin: 0 !important;padding: 0 !important;}
+    </style>
+<script>
+  $(document).ready(function(){
+    $(window).resize(function() {
+        if ($(window).width() <= 767) {
+          $('footer .check-list').hide();
+          $('.title').on('click', function(e) {
+            e.preventDefault();
+              $(".title").removeClass('active');
+              $(this).addClass('active');
+                $(this).nextUntil('.active').slideDown('slow');
+                $(".title").not(".active").nextUntil('.title').slideUp('slow');
+          });
+        }else {
+              $('footer .check-list').show();
+          };
+    });
+  });
+</script>
+   
+<footer id="footer-content">
+  <div class="row-fluid shortcuts">
+    <div class="container">
+        <div class="row">
+
+<h4>¿Necesitas contactarnos? </h4>
+<br>
+
+          <div class="col-sm-3 block">
+              <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" title="Chat en línea"> <img src="/wps/wcm/connect/www.banistmo.com11237/f77e637a-115c-493e-9031-f5bc82db8c06/chat.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f77e637a-115c-493e-9031-f5bc82db8c06-nu3xpR7" alt="Ícono Chat" title="Chat en línea"></a>
+            <div class="txt">
+           <h3 dir="ltr">Chat en línea</h3>
+              <p dir="ltr">Déjanos ayudarte a encontrar lo que buscas.</p>
+            </div>          
+          </div>
+          <div class="col-sm-3 block">
+              <a target="_blank" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-telefonica-personas/"><img src="/wps/wcm/connect/www.banistmo.com11237/69233c16-83ee-4391-8cd0-7c02d7a938d0/phone.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-69233c16-83ee-4391-8cd0-7c02d7a938d0-nu3xTdf" alt="Ícono Llámanos"></a>
+            <div class="txt">
+                 <h3 dir="ltr">Llámanos</h3>
+              <p dir="ltr">Al <a href="tel:5073064700" style="color:#2c2a29;"><u>306-4700</u></a>. </p>
+            </div>
+          </div>
+          <div class="col-sm-3 block">
+              <a title="Déjanos Llamarte" target="" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/dejanos-llamarte"><img src="/wps/wcm/connect/www.banistmo.com11237/682d4335-5b69-4619-818e-918fa94fde9d/call.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-682d4335-5b69-4619-818e-918fa94fde9d-nu3yfBU" alt="Ícono Déjanos Llamarte" title=""></a>
+            <div class="txt">
+             <h3 dir="ltr">Déjanos llamarte</h3>
+              <p dir="ltr">Déjanos tus datos para que te contactemos.</p>
+            </div>
+          </div>
+          <div class="col-sm-3 block last">
+              <a title="Visítanos" target="" href="/wps/portal/banistmo/personas/buscador-sucursales/"><img src="/wps/wcm/connect/www.banistmo.com11237/20953d95-d783-4f42-8e26-9252954e138d/location.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-20953d95-d783-4f42-8e26-9252954e138d-nu3z8eI" alt="Ícono Visítanos" title="Visitanos"></a>
+            <div class="txt">
+                   <h3 dir="ltr">Visítanos</h3>
+              <p dir="ltr">Busca nuestro próximo lugar de encuentro.</p>
+            </div>
+          </div>
+<br><br>
+<div>
+<a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" target="_blank" class="btn btn-primary">OTROS CANALES DE ATENCIÓN &nbsp; &nbsp;  <img src="/wps/wcm/connect/www.banistmo.com11237/eb4dc497-23f5-46db-ad7a-6d4d9f756736/Mask.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-eb4dc497-23f5-46db-ad7a-6d4d9f756736-nUM6b-E" style="height:17px;margin-bottom:5px;"></a>
+
+
+</div>
+<br><br>
+
+        </div>
+      </div>
+  </div>
+  
+  <div class="container-fluid links">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Comunícate con nosotros</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/zona-de-contacto/" target="" title="">Contáctanos</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/trabaja-con-nosotros/" target="" title="">Trabaja con nosotros</a></li>
+            </ul>            
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Accesos rápidos</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/glosario-de-terminos" target="" title="">Glosario</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/" target="" title="">Sostenibilidad</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/mapa-del-sitio/" target="" title="">Mapa del sitio</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/tarifario/" target="" title="">Tarifario</a></li>
+                <li><a href="https://personas.banistmo.com/">Transacciones</a></li>
+                <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/" target="" title="">Aprender es Fácil</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/innovacion" target="_blank" title="">Innovación</a></li>
+            </ul>                                     
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <h3 class="title">Legales</h3>
+            <ul class="check-list" dir="ltr">
+                <li><a href="/wps/portal/banistmo/acerca-de/seguridad" target="" title="">Seguridad&nbsp;y&nbsp;Privacidad</a></li>
+                <li><a href="/wps/portal/banistmo/acerca-de/condiciones-generales/" target="" title="">Condiciones generales</a></li>
+                <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/fatca/" target="" title="">FATCA &amp; CRS</a></li>
+                <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/itbms/" target="" title="">ITBMS</a></li>
+                <li><a href="/wps/wcm/connect/www.banistmo.com11237/c4d78b09-894e-4a17-b8c8-624a706daf80/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c4d78b09-894e-4a17-b8c8-624a706daf80-noplGiy" download="ProhibicionesSuperIntendenciaDeBancosSIB" target="" title="">Prohibiciones</a></li>
+                <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/laft/" target="" title="">Prevención de lavado de activos</a></li>
+<li><a href="/wps/portal/banistmo/acerca-de/gestion-2020" target="" title="">Gestión 2020</a></li>
+            </ul>                         
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row social">
+            <h3>Síguenos en redes:</h3>
+            <ul class="networks" dir="ltr">
+                <li class="facebook"><a href="https://www.facebook.com/Banistmo">Facebook</a></li>
+                <li class="twitter"><a href="https://twitter.com/banistmo">Twitter</a></li>
+                <li class="instagram"><a href="https://www.instagram.com/banistmo/">Instagram</a></li>
+                <li class="youtube"><a href="https://www.youtube.com/banistmoPanama">YouTube</a></li>
+                <li class="linkedin"><a href="https://www.linkedin.com/company/banistmo">LinkedIn</a></li>
+            </ul>
+            <img src="/wps/wcm/connect/www.banistmo.com11237/ffbb836a-cf33-427d-a86c-e3a9081228d9/Logo-para-bancos-SBP-2018.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-ffbb836a-cf33-427d-a86c-e3a9081228d9-nopjkle" alt="Superintendencia de Bancos de Panamá" width="66" height="66">
+          </div>
+        </div>        
+      </div>   
+    </div>
+  </div>
+
+  <div class="row-fluid copy">
+    <div class="container">
+      <div class="col-sm-5">
+        <a href="/wps/portal/banistmo/personas/" class="logo-banistmo">
+           <img src="/wps/wcm/connect/www.banistmo.com11237/de872b1a-fb3b-4e45-a0f1-7850820269bf/logo-banistmo-footer.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-de872b1a-fb3b-4e45-a0f1-7850820269bf-nopjwDV" alt="" width="155" height="26">
+        </a>
+      </div>
+      <div class="col-sm-7">
+        <p dir="ltr" style="color: #FFFFFF;">Copyright © 2022 Banistmo</p>
+        <a href="https://www.grupobancolombia.com/personas" class="logo-bancolombia">
+           <img src="/wps/wcm/connect/www.banistmo.com11237/144957fa-bd42-441e-a29b-ef21e673b9a9/logo-bancolombia-footer.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-144957fa-bd42-441e-a29b-ef21e673b9a9-nopjrG1" alt="" width="128" height="30">
+        </a>
+      </div>            
+    </div> 
+  </div>
+
+</footer>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+	 
+
+	 
+<div class="wpthemeClear"></div>
+            </div>
+        </div>
+    </div>
+    <!--end main content-->
+
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+    <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+        <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+        <script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!gwTp21ty2ecY9GBRnIpZDg/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1642103597532&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"BanistmoThemeAcercaDe","themeRootURI":"/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/war/BanistmoThemeAcercaDeStatic/themes/Banistmo","themeWebAppBaseURI":"/BanistmoThemeAcercaDeDynamic/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:BanistmoThemeAcercaDeStatic/themes/Banistmo/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!gwTp21ty2ecY9GBRnIpZDg/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Sostenibilidad - Acerca de Banistmo","currentContentNodeOID":"Z6_38G2HA80N87M00AB62GT7524N4","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!jdgV-gC0u01ASdz5xW-whQ/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/BanistmoThemeAcercaDeDynamic/themes/html/dynamicSpots","parentPageID":"Z6_8252I1C0M07RC0ARVBRB2403M5","currentPageOID":"Z6_38G2HA80N87M00AB62GT7524N4","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_38G2HA80N87M00AB62GT7524N4&#034;&gt;&lt;mapping src=&#034;Z6_8252I1C0M07RC0ARVBRB2403M5&#034; dst=&#034;Z6_38G2HA80N87M00AB62GT7524N4&#034;/&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_38G2HA80N87M00AB62GT7524N4&#034;/&gt;&lt;mapping src=&#034;Z6_38G2HA80N87M00AB62GT7524N4&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_8252I1C0M07RC0ARVBRB2403M5&#034;/&gt;&lt;node id=&#034;Z6_2G9I1K41NO8490QLEAGI8QBSN2&#034;/&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT7520B5&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_toolbar_viewframe_validator":"0.0","toolbar":"8.5","wp_dynamicContentSpots_85":"0.0","wp_theme_portal_85":"0.0","wp_client_ext":"0.0","wp_a11y":"0.0","wp_custom_page_style":"0.0","wp_simple_contextmenu_main":"0.0","bco_fonts":"1.0","wp_client_tracing":"0.0","css_wcm_custom":"0.0","wp_toolbar85":"0.0","wp_themeDynBanistmoAcercaDe":"0.0","wp_theme_utils":"0.0","bco_transversal_js":"1.0","wp_toolbar_common":"0.0","photon.dom":"1.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_dialog_draggable":"0.0","wp_toolbar_common_actionbar":"0.0","wp_simple_contextmenu_css":"0.0","hasBaseURL":"true","wp_client_logging":"0.0","wp_portal":"0.0","wp_toolbar_contextmenu":"0.0","wp_toolbar_logo":"0.0","wp_toolbar_menuactions":"0.0","bco_transversal_css":"1.0","wp_dialog_css":"0.0","wp_simple_contextmenu_ext":"0.0","wp_photon_dom":"0.0","wp_simple_contextmenu_templates":"0.0","wp_state_page_modes":"0.0","wp_toolbar_sitepreview":"0.0","wp_toolbar_projectmenu":"0.0","wp_toolbar_actionbar":"0.0","wp_searchbar":"0.0","wp_toolbar_moremenu":"0.0","wp_dialog_main":"0.0","wp_modules":"0.0","wp_hiddenpages":"0.0","wp_client_main":"0.0","wp_hiddencontent":"0.0","wp_theme_portal_edit_85":"0.0","wp_portlet_css":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_toolbar_host_view":"0.0","wp_dialog_util":"0.0","wp_state_page":"0.0","simple-contextmenu":"1.1","modules":"0.1","wp_simple_contextmenu_js":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1607105192000&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=bco_transversal_js__1.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1642103597000&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!07mMen9U3BcKsIywfpacJw/mashup/ra:collection?themeID=ZJ_P95CH9G00HNEA0QLPCUGUH4247&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/angular-sanitize.min.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/angular-animate.js"></script>
+    <script type="text/javascript" src="/BanistmoThemeAcercaDeStatic/themes/Banistmo/js/app.js"></script>
+
+
+
+
+</portletapi:init><link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad/" hreflang="es-pa"><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-a1ae2079824d1c48aa9ce06efb256f18.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

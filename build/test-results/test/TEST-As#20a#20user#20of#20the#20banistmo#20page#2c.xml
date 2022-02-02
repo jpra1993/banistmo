@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="As a user of the banistmo page," tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-01T22:55:08" hostname="DESKTOP-KRDGPCC" time="6.214">
+<testsuite name="As a user of the banistmo page," tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-02T00:16:13" hostname="DESKTOP-KRDGPCC" time="24.066">
   <properties/>
-  <testcase name="Search corporate information on sustainability" classname="As a user of the banistmo page," time="6.214"/>
+  <testcase name="Search corporate information on sustainability" classname="As a user of the banistmo page," time="24.066"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[feb. 01, 2022 5:55:08 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[feb. 01, 2022 7:16:13 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized--incognito, goog:chromeOptions: {args: [--start-maximized, --incognito, --enable-automation, --test-type], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 33066
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 13341
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1643756109.980][WARNING]: This version of ChromeDriver has not been tested with Chrome version 97.
-feb. 01, 2022 5:55:10 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+[1643760975.290][WARNING]: This version of ChromeDriver has not been tested with Chrome version 97.
+feb. 01, 2022 7:16:15 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
